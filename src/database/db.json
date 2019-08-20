@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "username": "dhimas",
+      "email": "dhimas@gmail.com",
+      "password": "dhimas@gmail.com",
+      "id": 1
+    },
+    {
+      "username": "dheimas",
+      "email": "dheimas@gmail.com",
+      "password": "asdf",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "userid": 1,
+      "description": "punya dhimas",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "userid": 2,
+      "description": "dhimas punya",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "userid": 2,
+      "description": "dhimas punya 1 nih",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "userid": 2,
+      "description": "dhimas punya 1 nih mantep",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "userid": 1,
+      "description": "punya dhimas 1",
+      "completed": false,
+      "id": 7
+    }
+  ]
+}
